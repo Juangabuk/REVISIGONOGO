@@ -11,7 +11,7 @@ const FirstGuide:React.FC<Props> = ({setState, state}) => {
         <>
         <div>
             {/* <h2 className="mt-6 text-center text-xl font-extrabold text-white">Petunjuk Sesi</h2> */}
-            <p className="mt-2 text-center text-sm text-gray-620">
+            <p className="mt-2 text-center text-sm text-gray-300">
                 Kamu akan mendapatkan 12 (DUA BELAS) SESI <br/>
                 TES yang berbeda. <br/>
                 Setiap sesi akan ditampilkan kata-kata yang menjadi TARGET dan kata lain yang menjadi <br/>
